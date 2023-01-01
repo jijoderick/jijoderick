@@ -3,7 +3,7 @@ I am a joint PhD student at the University of Queensland and Indian Institute of
 My doctrol research is on simulations to understand ventricular mechanics of heart failure.  
 My research interest spreads over computational fluid dynamics, fluid- structure interaction, lattice Boltzman method, heat transfer and cardiac mechanics.  
 ![research_theme](1671262548240.jpg)
-If you works on these domains, I will be happy to get connected with you.
+
 
 
 <!--
