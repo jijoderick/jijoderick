@@ -1,7 +1,8 @@
 ### Hi there 👋
 I am a joint Phd student at the University of Queensland and Indian Institute of Technology Delhi.  
 My doctrol research is on simulations to understand ventricular mechanics of heart failure.  
-My research interest is spreads on computational fluid dynamics, fluid- structure interaction, lattice boltzman method, and non linear anistropic elasticity.
+My research interest is spreads on computational fluid dynamics, fluid- structure interaction, lattice boltzman method, heat transfer and non linear anistropic elasticity.
+
 
 <!--
 **jijoderick/jijoderick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
