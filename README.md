@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a joint Phd student at the University of Queensland and Indian Institute of Technology Delhi.
 
 <!--
 **jijoderick/jijoderick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
