@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a joint PhD student at the University of Queensland and Indian Institute of Technology Delhi.  
-My doctrol research is on simulations to understand ventricular mechanics of heart failure.  
-My research interest spreads over computational fluid dynamics, fluid- structure interaction, lattice Boltzman method, heat transfer, FVM, FEM and cardiac mechanics.  
+My PhD research is on simulations to understand ventricular mechanics of heart failure.  
+My research interest spreads over computational fluid dynamics, fluid-structure interaction, lattice Boltzman method, heat transfer, FVM, FEM and cardiac mechanics.  
 ![research_theme_image](jijo_research.jpg)
 
 
