@@ -4,7 +4,7 @@ My PhD research is on simulations to understand ventricular mechanics of heart f
 My research interest spreads over computational fluid dynamics, fluid-structure interaction, lattice Boltzman method, heat transfer, FVM, FEM and cardiac mechanics.  
 ![research_theme_image](jijo_research.jpg)
 
-
+![](https://github-readme-stats.vercel.app/api/?username=llaniewski&disable_animations=true&include_all_commits=true&show_icons=true&hide_title=true)
 
 
 <!--
