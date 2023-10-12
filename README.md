@@ -4,8 +4,7 @@ My PhD research is on simulations to understand ventricular mechanics of heart f
 My research interest spreads over computational fluid dynamics, fluid-structure interaction, lattice Boltzman method, heat transfer, FVM, FEM and cardiac mechanics.  
 ![research_theme_image](jijo_research.jpg)
 
-| <a href="https://github.com/iitrabhi/project-template"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iitrabhi&repo=project-template&theme=buefy" /></a>  | <a href="https://github.com/iitrabhi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iitrabhi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhinav's github stats" /></a> |
-| ------------- | ------------- |
+
 
 
 <!--
