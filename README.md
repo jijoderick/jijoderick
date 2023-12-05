@@ -5,8 +5,7 @@ My research interest spreads over computational fluid dynamics, fluid-structure 
 ![research_theme_image](jijo_research.jpg)
 #### Connect eith me
 <div> 
-  <a href = "mailto:berg@ice.ufjf.br"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png)" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-arantes-berg-997547a2](https://www.linkedin.com/in/jijo-derick-abraham-6914a7157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank
+  <a href="https://www.linkedin.com/in/jijo-derick-abraham-6914a7157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank
 
 
 <!--
