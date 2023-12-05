@@ -6,7 +6,6 @@ My research interest spreads over computational fluid dynamics, fluid-structure 
 #### Connect with me
 <div> 
   <a href="https://www.linkedin.com/in/jijo-derick-abraham-6914a7157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank></a>
-  <a href="https://www.researchgate.net/profile/Jijo-Derick-Abraham" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" target="_blank></a>
 </div>
 
 <!--
