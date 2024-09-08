@@ -1,8 +1,7 @@
 ### Hi there 👋
 I am a joint PhD student at the University of Queensland and Indian Institute of Technology Delhi.  
 My PhD research is on simulations to understand ventricular mechanics of heart failure preserved ejection fraction (HFpEF).  
-My research interest spreads over computational fluid dynamics, fluid-structure interaction, lattice Boltzman method, heat transfer, FVM, FEM and cardiac mechanics.
-Lumped parameter modeling
+My research interest spreads over computational cardiac mechanics, computational fluid dynamics, fluid-structure interaction, lattice Boltzman method, heat transfer, FVM, FEM and lumped parameter modeling
 ![research_theme_image](jijo_research.jpg)
 #### Connect with me
 <div> 
