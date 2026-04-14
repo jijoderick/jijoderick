@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am a joint PhD student at the University of Queensland, Australia and the Indian Institute of Technology Delhi, India.  
-My PhD research is on simulations to understand ventricular mechanics of heart failure preserved ejection fraction (HFpEF).  
+I am a postdoctoral researcher at the School of Mechanical and Mining Engineering, the university of Queensland, Australia.
+I defended my joint PhD between University of Queensland, Australia and the Indian Institute of Technology Delhi, India in February 2026.  
+My PhD research was on simulations to understand ventricular mechanics of heart failure preserved ejection fraction (HFpEF).  
 My research interest spreads over computational cardiac mechanics, computational fluid dynamics, fluid-structure interaction, lattice Boltzmann method, heat transfer, FVM, FEM and lumped parameter modelling.
 ![research_theme_image](jijo_research.jpg)
 #### Connect with me
