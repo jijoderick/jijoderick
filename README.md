@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a postdoctoral researcher at the School of Mechanical and Mining Engineering, the university of Queensland, Australia.
+I am a postdoctoral researcher at the School of Mechanical and Mining Engineering, the university of Queensland, Australia.   
 My research interest spreads over computational cardiac mechanics, computational fluid dynamics, fluid-structure interaction, lattice Boltzmann method, heat transfer, FVM, FEM and lumped parameter modelling.
 ![research_theme_image](jijo_research.jpg)
 #### Connect with me
